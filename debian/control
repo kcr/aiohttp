@@ -1,0 +1,31 @@
+Source: aiohttp
+Maintainer: Nikolay Kim <fafhrd91@gmail.com>
+Section: python
+Priority: optional
+Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)
+Standards-Version: 3.9.1
+
+Package: python-aiohttp
+Architecture: all
+Depends: ${misc:Depends}, ${python:Depends}
+Description: http client/server for asyncio
+ http client/server for asyncio
+ ==============================
+ .
+ .. image:: https://secure.travis-ci.org/KeepSafe/aiohttp.png
+   :target:  https://secure.travis-ci.org/KeepSafe/aiohttp
+ .
+ .. image:: https://coveralls.io/repos/KeepSafe/aiohttp/badge.png?branch=master
+   :target: https://coveralls.io/r/KeepSafe/aiohttp?branch=master
+ .
+ .
+ Requirements
+ ------------
+ .
+ - Python >= 3.3
+ - asyncio https://pypi.python.org/pypi/asyncio/0.4.1
+ .
+ .
+ License
+ -------
+ .

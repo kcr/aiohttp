@@ -1,5 +1,5 @@
 Source: aiohttp
-Maintainer: Nikolay Kim <fafhrd91@gmail.com>
+Maintainer: Karl Ramm <kcr@1ts.org>
 Section: python
 Priority: optional
 Build-Depends: python-setuptools (>= 0.6b3), python-all (>= 2.6.6-3), debhelper (>= 7)

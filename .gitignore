@@ -27,3 +27,8 @@ cover
 .idea
 pyvenv
 virtualenv.py
+build/
+debian/files
+debian/python-aiohttp.debhelper.log
+debian/python-aiohttp.substvars
+debian/python-aiohttp/

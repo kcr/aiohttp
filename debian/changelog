@@ -1,3 +1,9 @@
+aiohttp (0.7.1dev-2) unstable; urgency=low
+
+  * new upstream
+
+ -- Karl Ramm <kcr@1ts.org>  Thu, 01 May 2014 09:40:21 -0400
+
 aiohttp (0.7.1dev-1) unstable; urgency=low
 
   * source package automatically created by stdeb 0.6.0+git

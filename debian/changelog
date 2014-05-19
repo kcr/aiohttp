@@ -1,3 +1,9 @@
+aiohttp (0.7.2dev-1) unstable; urgency=low
+
+  * new upstream
+
+ -- Karl Ramm <kcr@1ts.org>  Sun, 18 May 2014 23:56:10 -0400
+
 aiohttp (0.7.1dev-2) unstable; urgency=low
 
   * new upstream

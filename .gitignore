@@ -32,3 +32,9 @@ debian/files
 debian/python-aiohttp.debhelper.log
 debian/python-aiohttp.substvars
 debian/python-aiohttp/
+debian/python3-aiohttp.debhelper.log
+debian/python3-aiohttp.substvars
+debian/python3-aiohttp.postinst.debhelper
+debian/python3-aiohttp.prerm.debhelper
+debian/python3-aiohttp/
+.pybuild
